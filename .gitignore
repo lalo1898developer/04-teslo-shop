@@ -39,3 +39,6 @@ lerna-debug.log*
 
 # DB
 postgres
+
+# Lock
+package-lock.json
