@@ -17,7 +17,7 @@
     ```shell
     docker-compose up -d
     ```
-5. Crear el archivo __.env__
+5. Clonar el archivo __.env.template__ y renombrar la copia __.env__
 
 6. Llenar las variables de entorno definidas en el __.env__
 
